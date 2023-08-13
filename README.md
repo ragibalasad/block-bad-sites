@@ -8,4 +8,5 @@ Open terminal in the same directory and run the following command:
 sudo python3 block.py
 ```
 <h2>in Windows:</h2>
-<b>Run the python file as Administrator.</b>
+<b>Run the python file as Administrator.</b></br>
+<i>Note: For this you need to have python installed.</i>
