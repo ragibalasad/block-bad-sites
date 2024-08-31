@@ -1,7 +1,7 @@
 import platform
 OS = platform.system()
 HOST = "127.0.0.1"
-HOSTS_PATH = "/etc/hosts" if OS == 'Linux' else "C:\Windows\System32\drivers\etc\hosts"
+HOSTS_PATH = "/etc/hosts" if OS == 'Linux' else r"C:\Windows\System32\drivers\etc\hosts"
 
 print("Block Thousands of Popular P*rn Sites from your device with just one click.")
 confirm = input("Are you sure you want to proceed?? - [Y/n]")
