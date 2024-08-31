@@ -1,12 +1,26 @@
-# Block-Bad-Sites
-<h3>Block Thousands of P*rn sites from your device within seconds.</h3>
-To do so, <b><a href="https://github.com/ragibalasad/Block-Bad-Sites/archive/refs/heads/main.zip"> download this repository</a></b> and run the <b>block.py</b> file.
-<h2>in Linux:</h2>
-Open terminal in the same directory and run the following command:
+# block-bad-sites
 
-```
-sudo python3 block.py
-```
-<h2>in Windows:</h2>
-<b>Run the python file as Administrator.</b></br>
-<i>Note: For this you need to have python installed.</i>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+ ![Python](https://img.shields.io/badge/Built%20with-Python3-3776AB)
+
+This script allows you to block access to numerous explicit websites on your device quickly and effectively. It's designed for both Linux and Windows environments.
+
+## 🚀 Installation
+
+### 📋 Prerequisites
+- Python 3.x installed on your system.
+
+### 🐧 Linux
+1. Clone the repository.
+2. Open a terminal in the repository directory.
+3. Run the script with:
+
+   ```bash
+   sudo python3 block.py
+
+### 🖥️ Windows
+1. Clone the repository.
+2. Run `block.py` as an Administrator.
+
+### 🤝 Contributions
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
